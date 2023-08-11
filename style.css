@@ -32,7 +32,7 @@ nav {
   position: relative;
 }
 .nav-links li a::after {
-  content: ' ';
+  content: '';
   background: #ff3d00;
   width: 0;
   height: 2px;
